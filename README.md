@@ -18,3 +18,7 @@ Listed are the files used for this assignment
  * employees.csv
  * salaries.csv
  * titles.csv
+
+## Instructions
+
+This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
