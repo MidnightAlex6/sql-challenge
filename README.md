@@ -12,9 +12,9 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 Listed are the files used for this assignment
 
- *departments.csv
- *dept_emp.csv
- *dept_manager.csv
- *employees.csv
- *salaries.csv
- *titles.csv
+ * departments.csv
+ * dept_emp.csv
+ * dept_manager.csv
+ * employees.csv
+ * salaries.csv
+ * titles.csv
