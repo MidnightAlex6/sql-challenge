@@ -16,7 +16,7 @@ Listed are the files used for this assignment
  * [dept_emp.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/dept_emp.csv)
  * [dept_manager.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/dept_manager.csv)
  * [employees.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/employees.csv)
- * salaries.csv
+ * [salaries.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/salaries.csv)
  * titles.csv
 
 ## Instructions
