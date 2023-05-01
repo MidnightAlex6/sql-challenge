@@ -21,7 +21,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
  * [salaries.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/salaries.csv)
  * [titles.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/titles.csv)
  
-### Employee_SQL Folder
+### [Employee_SQL Folder](https://github.com/MidnightAlex6/sql-challenge/tree/main/Employee_SQL)
 
  * Queries.sql - contains all my querys for the Data Analysis portion of the assignment
  * Table_Schema.sql - contains the exported postgreSQL of my entity relationship diagram
