@@ -12,12 +12,12 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 Listed are the files used for this assignment
 
- * departments.csv
- * dept_emp.csv
- * dept_manager.csv
- * employees.csv
- * salaries.csv
- * titles.csv
+ * [departments.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/departments.csv)
+ * [dept_emp.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/dept_emp.csv)
+ * [dept_manager.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/dept_manager.csv)
+ * [employees.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/employees.csv)
+ * [salaries.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/salaries.csv)
+ * [titles.csv](https://github.com/MidnightAlex6/sql-challenge/blob/main/Data/titles.csv)
 
 ## Instructions
 
