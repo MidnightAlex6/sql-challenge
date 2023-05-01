@@ -10,7 +10,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Files
 
-### Data Folder
+### [Data Folder](https://github.com/MidnightAlex6/sql-challenge/tree/main/Data)
 
  Listed are the files used for this assignment
 
