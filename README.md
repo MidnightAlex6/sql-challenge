@@ -29,7 +29,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ### [ERD Folder](https://github.com/MidnightAlex6/sql-challenge/tree/main/ERD)
 
  * [ERD_image.png](https://github.com/MidnightAlex6/sql-challenge/blob/main/ERD/ERD_image.png) - an image of my entity relationship diagram for this assignment
- * ERD.txt - file containing my ERD text
+ * [ERD.txt](https://github.com/MidnightAlex6/sql-challenge/blob/main/ERD/ERD.txt) - file containing my ERD text
 
 ### [Resources Folder](https://github.com/MidnightAlex6/sql-challenge/tree/main/Resources)
 
