@@ -31,7 +31,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
  * ERD_image.png - an image of my entity relationship diagram for this assignment
  * ERD.txt - file containing my ERD text
 
-### Resources Folder
+### [Resources Folder](https://github.com/MidnightAlex6/sql-challenge/tree/main/Resources)
 
  * SQL_image.png - image for my ReadME file
 
